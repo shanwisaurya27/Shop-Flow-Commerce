@@ -1,0 +1,28 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*~
+
+# Power BI temporary
+*.pbix.tmp
+*.pbi/
+
+# Python / analysis (if added later)
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+
+# Data files (keep synthetic data out of public repos if sensitive)
+# data/
+# *.csv
+# *.xlsx
+
+# Logs
+*.log
